@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/Zanoshky/admin-lte-react.git"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
